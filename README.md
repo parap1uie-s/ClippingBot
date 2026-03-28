@@ -158,4 +158,10 @@ For webhook-style delivery, the repository also supports standard Feishu `im.mes
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=parap1uie-s/ClippingBot&type=Date)](https://www.star-history.com/#parap1uie-s/ClippingBot&Date)
+<a href="https://www.star-history.com/?repos=parap1uie-s%2FClippingBot&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=parap1uie-s/ClippingBot&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=parap1uie-s/ClippingBot&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=parap1uie-s/ClippingBot&type=date&legend=top-left" />
+ </picture>
+</a>
