@@ -1,0 +1,2 @@
+"""ClippingBot package."""
+

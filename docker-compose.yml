@@ -1,0 +1,12 @@
+services:
+  clippingbot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: clippingbot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ${CLIPPINGBOT_OBSIDIAN_VAULT}:${CLIPPINGBOT_OBSIDIAN_VAULT}
+
